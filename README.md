@@ -1,5 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Gyubeen's+GitHub)](https://git.io/typing-svg)
 
+
+## Stack
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+<br/>
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vue-%4FC08D?style=flat&logo=vue.js&logoColor=white)
+
 <!--
 **somea82/somea82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
